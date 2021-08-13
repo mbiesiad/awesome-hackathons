@@ -2,11 +2,15 @@
 
 ## Contents
 
+* [GitHub](#github)
 * [GitLab](#gitlab)
 * [Google](#google)
 * [IBM](#ibm)
 * [NASA](#nasa)
 * [Code of Conduct](#code-of-conduct)
+
+## GitHub
+* [The GitHub Actions Hackathon](https://www.githubhackathon.com/) - A four-week virtual hackathon. Individuals from all over the world will create and build Actions to submit anytime between March 5 and 31.
 
 ## GitLab
 * [GitLab Hackathon](https://about.gitlab.com/community/hackathon/) - The Hackathon is a virtual event open to anyone who is interested in contributing code, documentation, translations, UX designs and more to GitLab.
