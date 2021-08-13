@@ -2,6 +2,7 @@
 
 ## Contents
 
+* [DigitalOcean](#digitalocean)
 * [GitHub](#github)
 * [GitLab](#gitlab)
 * [Google](#google)
@@ -10,6 +11,9 @@
 * [NASA](#nasa)
 * [Miscellaneous](#miscellaneous)
 * [Code of Conduct](#code-of-conduct)
+
+## DigitalOcean
+* [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A monthlong celebration of open source software run by DigitalOcean. Hacktoberfest is open to everyone in the global community. Four quality pull requests must be submitted to public GitHub repositories.
 
 ## GitHub
 * [The GitHub Actions Hackathon](https://www.githubhackathon.com/) - A four-week virtual hackathon. Individuals from all over the world will create and build Actions to submit anytime between March 5 and 31.
