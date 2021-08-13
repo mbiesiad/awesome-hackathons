@@ -8,6 +8,7 @@
 * [Google](#google)
 * [HackMIT](#hackmit)
 * [IBM](#ibm)
+* [Microsoft](#microsoft)
 * [NASA](#nasa)
 * [Miscellaneous](#miscellaneous)
 * [Code of Conduct](#code-of-conduct)
@@ -30,6 +31,9 @@
 
 ## IBM
 * [Call for Code](https://developer.ibm.com/callforcode/) - A global program that invites developers and problem solvers around the world to build and contribute to sustainable open source technology projects that address social and humanitarian issues, while ensuring the top solutions are deployed to make a demonstrable difference.
+
+## Microsoft
+* [Microsoft OpenHack](https://openhack.microsoft.com/) - A developer-focused engagement that connects development teams (Open) with experts to tackle a series of real-world challenges through hands-on experimentation (Hack) in person or online (Virtual).
 
 ## NASA
 * [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) - An international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others where teams engage the NASA’s free and open data to address real-world problems on Earth and in space.
