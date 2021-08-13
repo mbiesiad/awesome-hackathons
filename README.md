@@ -7,6 +7,7 @@
 * [Google](#google)
 * [IBM](#ibm)
 * [NASA](#nasa)
+* [Miscellaneous](#miscellaneous)
 * [Code of Conduct](#code-of-conduct)
 
 ## GitHub
@@ -24,6 +25,8 @@
 
 ## NASA
 * [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) - An international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others where teams engage the NASA’s free and open data to address real-world problems on Earth and in space.
+
+## Miscellaneous
 
 ## Contributing
 
