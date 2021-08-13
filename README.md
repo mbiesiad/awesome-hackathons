@@ -5,6 +5,7 @@
 * [GitHub](#github)
 * [GitLab](#gitlab)
 * [Google](#google)
+* [HackMIT](#hackmit)
 * [IBM](#ibm)
 * [NASA](#nasa)
 * [Miscellaneous](#miscellaneous)
@@ -19,6 +20,9 @@
 ## Google
 * [Hash Code](https://codingcompetitions.withgoogle.com/hashcode/) - A team programming competition, organized by Google, for students and professionals around the world.
 * [Code Jam](https://codingcompetitions.withgoogle.com/codejam) - Google's longest running global coding competition, where programmers of all levels put their skills to the test.
+
+## HackMIT
+* [HackMIT](https://hackmit.org/) - An annual student-run hackathon held in the fall at the Massachusetts Institute of Technology.
 
 ## IBM
 * [Call for Code](https://developer.ibm.com/callforcode/) - A global program that invites developers and problem solvers around the world to build and contribute to sustainable open source technology projects that address social and humanitarian issues, while ensuring the top solutions are deployed to make a demonstrable difference.
