@@ -42,6 +42,7 @@
 * [C# Corner Code Hackathon](https://www.c-sharpcorner.com/events/c-sharp-corner-code-hackathon) - A one day event which comprises of four challenges, out of which, you need to select any one challenge and complete within four hours.
 * [Facebook Hackathon](https://www.facebook.com/hackathon) - Hackathons by Facebook in cities around the world.
 * [Hackathon for Jira](https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?tab=overview&hosting=cloud) - App allows competitors and spectators to vote on hackathon teams using their phones and in general run a hackathon using the power of Jira.
+* [Open Jam](https://openjam.io/) - An annual, weekend-long open-source game jam.
 
 ## Contributing
 
