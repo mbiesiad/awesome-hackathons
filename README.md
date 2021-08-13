@@ -15,6 +15,7 @@
 * [Code Jam](https://codingcompetitions.withgoogle.com/codejam) - Google's longest running global coding competition, where programmers of all levels put their skills to the test.
 
 ## NASA
+* [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) - An international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others where teams engage the NASA’s free and open data to address real-world problems on Earth and in space.
 
 ## Contributing
 
