@@ -28,6 +28,7 @@
 
 ## Miscellaneous
 * [C# Corner Code Hackathon](https://www.c-sharpcorner.com/events/c-sharp-corner-code-hackathon) - A one day event which comprises of four challenges, out of which, you need to select any one challenge and complete within four hours.
+* [Facebook Hackathon](https://www.facebook.com/hackathon) - Hackathons by Facebook in cities around the world.
 
 ## Contributing
 
