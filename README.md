@@ -47,6 +47,8 @@
 * [Facebook Hackathon](https://www.facebook.com/hackathon) - Hackathons by Facebook in cities around the world.
 * [Hackathon for Jira](https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?tab=overview&hosting=cloud) - App allows competitors and spectators to vote on hackathon teams using their phones and in general run a hackathon using the power of Jira.
 * [Open Jam](https://openjam.io/) - An annual, weekend-long open-source game jam.
+* [MIT Hacking Medicine](https://hackingmedicine.mit.edu/) - A group founded at MIT in 2011, comprising of MIT students and community members, aimed at energizing the healthcare community and accelerating medical innovation (with carrying out health hackathons).
+* [HackMed](https://hackmed.uk/) - A medical hackathon aimed at developing creative solutions to solve problems within medicine and healthcare.
 
 ## Contributing
 
