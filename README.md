@@ -3,6 +3,7 @@
 ## Contents
 
 * [DigitalOcean](#digitalocean)
+* [ESA](#esa)
 * [GitHub](#github)
 * [GitLab](#gitlab)
 * [Google](#google)
@@ -15,6 +16,9 @@
 
 ## DigitalOcean
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A monthlong celebration of open source software run by DigitalOcean. Hacktoberfest is open to everyone in the global community. Four quality pull requests must be submitted to public GitHub repositories.
+
+## ESA
+* [ActInSpace](https://actinspace.org/) - International Hackathon in space application co-organized by CNES and ESA.
 
 ## GitHub
 * [The GitHub Actions Hackathon](https://www.githubhackathon.com/) - A four-week virtual hackathon. Individuals from all over the world will create and build Actions to submit anytime between March 5 and 31.
