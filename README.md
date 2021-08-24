@@ -50,6 +50,7 @@
 * [Open Jam](https://openjam.io/) - An annual, weekend-long open-source game jam.
 * [MIT Hacking Medicine](https://hackingmedicine.mit.edu/) - A group founded at MIT in 2011, comprising of MIT students and community members, aimed at energizing the healthcare community and accelerating medical innovation (with carrying out health hackathons).
 * [HackMed](https://hackmed.uk/) - A medical hackathon aimed at developing creative solutions to solve problems within medicine and healthcare.
+* [Devpost Hackathons](https://devpost.com/hackathons) - The home for hackathons.
 
 ## Contributing
 
