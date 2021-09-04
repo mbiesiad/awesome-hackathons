@@ -1,5 +1,7 @@
 # Awesome Hackathons [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+Hackathons-related awesome list.
+
 ## Contents
 
 * [DigitalOcean](#digitalocean)
