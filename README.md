@@ -53,6 +53,7 @@ Hackathons-related awesome list.
 * [MIT Hacking Medicine](https://hackingmedicine.mit.edu/) - A group founded at MIT in 2011, comprising of MIT students and community members, aimed at energizing the healthcare community and accelerating medical innovation (with carrying out health hackathons).
 * [HackMed](https://hackmed.uk/) - A medical hackathon aimed at developing creative solutions to solve problems within medicine and healthcare.
 * [Devpost Hackathons](https://devpost.com/hackathons) - The home for hackathons.
+* [High School Hackathons](https://hackathons.hackclub.com/) - A curated list of high school hackathons with 475 events in 21 states + 22 countries maintained by the Hack Club staff.
 
 ## Contributing
 
