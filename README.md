@@ -55,6 +55,8 @@ Hackathons-related awesome list.
 * [Devpost Hackathons](https://devpost.com/hackathons) - The home for hackathons.
 * [High School Hackathons](https://hackathons.hackclub.com/) - A curated list of high school hackathons with 475 events in 21 states + 22 countries maintained by the Hack Club staff.
 * [Hackathons on Gitcoin](https://gitcoin.co/hackathons) - Gitcoin gives the opportunity to work on a wide variety of blockchain and Web3 projects, with some of the top organizations in the ecosystem.
+* [HackZurich](https://hackzurich.com/) - Europe's biggest hackathon.
+* [Hackathon IO](https://www.hackathon.io/events) - Place for organize and discover hackathons.
 
 ## Contributing
 
