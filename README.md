@@ -48,6 +48,7 @@ Hackathons-related awesome list.
 
 ## CTF
 * [CTFtime](https://ctftime.org/) - Capture The Flag, CTF teams, CTF ratings, CTF archive, CTF writeups.
+* [pingCTF](https://ctf.knping.pl/) - CTF by KN Ping.
 
 ## Miscellaneous
 * [C# Corner Code Hackathon](https://www.c-sharpcorner.com/events/c-sharp-corner-code-hackathon) - A one day event which comprises of four challenges, out of which, you need to select any one challenge and complete within four hours.
