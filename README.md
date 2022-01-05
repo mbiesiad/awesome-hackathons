@@ -13,6 +13,7 @@ Hackathons-related awesome list.
 * [IBM](#ibm)
 * [Microsoft](#microsoft)
 * [NASA](#nasa)
+* [CTF](#ctf)
 * [Miscellaneous](#miscellaneous)
 * [Code of Conduct](#code-of-conduct)
 
@@ -44,6 +45,11 @@ Hackathons-related awesome list.
 
 ## NASA
 * [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) - An international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others where teams engage the NASA’s free and open data to address real-world problems on Earth and in space.
+
+## CTF
+* [CTFtime](https://ctftime.org/) - Capture The Flag, CTF teams, CTF ratings, CTF archive, CTF writeups.
+* [pingCTF](https://ctf.knping.pl/) - CTF by KN Ping.
+* [CTFd](https://ctfd.io/) - A Capture The Flag framework designed for ease of use for both administrators and users.
 
 ## Miscellaneous
 * [C# Corner Code Hackathon](https://www.c-sharpcorner.com/events/c-sharp-corner-code-hackathon) - A one day event which comprises of four challenges, out of which, you need to select any one challenge and complete within four hours.
