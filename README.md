@@ -63,6 +63,7 @@ Hackathons-related awesome list.
 * [Hackathons on Gitcoin](https://gitcoin.co/hackathons) - Gitcoin gives the opportunity to work on a wide variety of blockchain and Web3 projects, with some of the top organizations in the ecosystem.
 * [HackZurich](https://hackzurich.com/) - Europe's biggest hackathon.
 * [Hackathon IO](https://www.hackathon.io/events) - Place for organize and discover hackathons.
+* [CS50 Hackathon](http://cs50.harvard.edu/) - The on-campus version is Harvard's largest class with 800 students, 102 staff and up to 2,200 participants in their regular hackathons.
 
 ## Contributing
 
