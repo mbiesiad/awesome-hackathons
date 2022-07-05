@@ -50,6 +50,7 @@ Hackathons-related awesome list.
 * [CTFtime](https://ctftime.org/) - Capture The Flag, CTF teams, CTF ratings, CTF archive, CTF writeups.
 * [pingCTF](https://ctf.knping.pl/) - CTF by KN Ping.
 * [CTFd](https://ctfd.io/) - A Capture The Flag framework designed for ease of use for both administrators and users.
+* [HTB - Capture The Flag](https://ctf.hackthebox.com/) - CTFs on Hack The Box.
 
 ## Miscellaneous
 * [C# Corner Code Hackathon](https://www.c-sharpcorner.com/events/c-sharp-corner-code-hackathon) - A one day event which comprises of four challenges, out of which, you need to select any one challenge and complete within four hours.
@@ -64,6 +65,7 @@ Hackathons-related awesome list.
 * [HackZurich](https://hackzurich.com/) - Europe's biggest hackathon.
 * [Hackathon IO](https://www.hackathon.io/events) - Place for organize and discover hackathons.
 * [CS50 Hackathon](http://cs50.harvard.edu/) - The on-campus version is Harvard's largest class with 800 students, 102 staff and up to 2,200 participants in their regular hackathons.
+* [Hack The Box](https://www.hackthebox.com/) - An online platform to test and advance your skills in penetration testing and cyber security.
 
 ## Contributing
 
