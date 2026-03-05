@@ -61,6 +61,7 @@ Hackathons-related awesome list.
 * [MIT Hacking Medicine](https://hackingmedicine.mit.edu/) - A group founded at MIT in 2011, comprising of MIT students and community members, aimed at energizing the healthcare community and accelerating medical innovation (with carrying out health hackathons).
 * [HackMed](https://hackmed.uk/) - A medical hackathon aimed at developing creative solutions to solve problems within medicine and healthcare.
 * [Devpost Hackathons](https://devpost.com/hackathons) - The home for hackathons.
+* [Orange Agent Jam](https://orangeagentjam.com?utm_source=github&utm_medium=awesome_hackathons&utm_campaign=agent_jam_march) - Online AI-agent hackathon/competition with $5K prizes and objective scoring by real user credit consumption (deadline: March 15, 2026). Starter repo: [orange-agent-jam-starter](https://github.com/StellaBot989/orange-agent-jam-starter).
 * [High School Hackathons](https://hackathons.hackclub.com/) - A curated list of high school hackathons with 475 events in 21 states + 22 countries maintained by the Hack Club staff.
 * [Hackathons on Gitcoin](https://gitcoin.co/hackathons) - Gitcoin gives the opportunity to work on a wide variety of blockchain and Web3 projects, with some of the top organizations in the ecosystem.
 * [HackZurich](https://hackzurich.com/) - Europe's biggest hackathon.
@@ -75,4 +76,3 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) fir
 ## Code of Conduct
 
 See [Code of Conduct](CODE-OF-CONDUCT.md).
-
