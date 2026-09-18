@@ -60,6 +60,7 @@ Hackathons-related awesome list.
 * [Open Jam](https://openjam.io/) - An annual, weekend-long open-source game jam.
 * [MIT Hacking Medicine](https://hackingmedicine.mit.edu/) - A group founded at MIT in 2011, comprising of MIT students and community members, aimed at energizing the healthcare community and accelerating medical innovation (with carrying out health hackathons).
 * [HackMed](https://hackmed.uk/) - A medical hackathon aimed at developing creative solutions to solve problems within medicine and healthcare.
+* [Hackyard](https://hackyard.tech) - Community-driven AI hackathons for solo builders. Small, capped weekly events where the theme drops at kickoff, everyone builds solo with any AI model, and the community votes with counts hidden until close. Free to join.
 * [Devpost Hackathons](https://devpost.com/hackathons) - The home for hackathons.
 * [High School Hackathons](https://hackathons.hackclub.com/) - A curated list of high school hackathons with 475 events in 21 states + 22 countries maintained by the Hack Club staff.
 * [Hackathons on Gitcoin](https://gitcoin.co/hackathons) - Gitcoin gives the opportunity to work on a wide variety of blockchain and Web3 projects, with some of the top organizations in the ecosystem.
