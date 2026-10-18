@@ -66,6 +66,7 @@ Hackathons-related awesome list.
 * [Hackathon IO](https://www.hackathon.io/events) - Place for organize and discover hackathons.
 * [CS50 Hackathon](http://cs50.harvard.edu/) - The on-campus version is Harvard's largest class with 800 students, 102 staff and up to 2,200 participants in their regular hackathons.
 * [Hack The Box](https://www.hackthebox.com/) - An online platform to test and advance your skills in penetration testing and cyber security.
+* [WhoOwnsWhat Hackathon Kit](https://whoownswhat.xyz/hackathon) - Free checklist for teams to agree on shared costs, project accounts, and who keeps the project after a hackathon.
 
 ## Contributing
 
