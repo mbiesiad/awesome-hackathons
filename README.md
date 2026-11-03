@@ -65,6 +65,7 @@ Hackathons-related awesome list.
 * [Hackathons on Gitcoin](https://gitcoin.co/hackathons) - Gitcoin gives the opportunity to work on a wide variety of blockchain and Web3 projects, with some of the top organizations in the ecosystem.
 * [HackZurich](https://hackzurich.com/) - Europe's biggest hackathon.
 * [Hackathon IO](https://www.hackathon.io/events) - Place for organize and discover hackathons.
+* [Tensor Hack](https://tensorhack.com/hackathons) - Source-linked index of open hackathons worldwide, by city and topic, with listed prizes and deadlines.
 * [CS50 Hackathon](http://cs50.harvard.edu/) - The on-campus version is Harvard's largest class with 800 students, 102 staff and up to 2,200 participants in their regular hackathons.
 * [Hack The Box](https://www.hackthebox.com/) - An online platform to test and advance your skills in penetration testing and cyber security.
 
