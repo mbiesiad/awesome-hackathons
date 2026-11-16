@@ -53,6 +53,7 @@ Hackathons-related awesome list.
 * [HTB - Capture The Flag](https://ctf.hackthebox.com/) - CTFs on Hack The Box.
 
 ## Miscellaneous
+* [AI Hackathon](https://aihackathon.app/) - Curated directory of open online AI hackathons breaking out cash prizes vs. free credits, solo eligibility, country limits, and L1–L4 code ownership rules.
 * [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon) - An Awesome list like this one, linking to platforms, tools and guidelines for organizers of events.
 * [C# Corner Code Hackathon](https://www.c-sharpcorner.com/events/c-sharp-corner-code-hackathon) - A one day event which comprises of four challenges, out of which, you need to select any one challenge and complete within four hours.
 * [Facebook Hackathon](https://www.facebook.com/hackathon) - Hackathons by Facebook in cities around the world.
